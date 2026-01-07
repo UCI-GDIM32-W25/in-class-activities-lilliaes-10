@@ -5,8 +5,11 @@
 ### Activity 1
 
 To ace the class, my tablemates discussed that we should attend LA hours and actively search online for answers to code issues or for coding specific things tutorials.
+
 ### Activity 2
+
 Q1: 10
+
 Q2: 2
 
 Q3: write "hello world" to the console every frane.
