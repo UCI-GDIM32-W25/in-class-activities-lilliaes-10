@@ -38,6 +38,10 @@ To ace the class, my tablemates discussed that we should attend LA hours and act
 
 ### Actvity 2
 
+[MG2 Progress](https://github.com/UCI-GDIM32-W25/mg2-lilliaes-10/commit/d7f7decc0a58845372c4c37d598746e868b9487c)
+
+In today's class I worked on MG2 by adding the background, ground, player, and coin sprites. I also set up the coin prefab and coded the player to jump on the space key and also not double jump.
+
 
 
 
