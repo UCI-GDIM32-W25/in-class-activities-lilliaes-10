@@ -27,3 +27,16 @@ To ace the class, my tablemates discussed that we should attend LA hours and act
 ### Activity 3
 
 [MG1 Breakdown Google Doc](https://docs.google.com/document/d/1xLpjOiC1mLK6nAbB_YaibtbYXvQONX3D-RQwwT5zzg4/edit?usp=sharing)
+
+# W2
+
+### Activity 1
+
+![IMG_7378](https://github.com/user-attachments/assets/45b1be23-8abc-44aa-911b-d1233a43eb3d)
+
+### Actvity 2
+
+
+
+
+
