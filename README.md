@@ -42,6 +42,21 @@ To ace the class, my tablemates discussed that we should attend LA hours and act
 
 In today's class I worked on MG2 by adding the background, ground, player, and coin sprites. I also set up the coin prefab and coded the player to jump on the space key and also not double jump.
 
+#
+
+# W3
+
+### Activity 1 + 2
+
+Weida + Leandro
+
+### Activity 3
+
+![IMG_7726](https://github.com/user-attachments/assets/88ea83aa-2e47-44d1-8526-c4d8b5b63e21)
+
+
+
+
 
 
 
