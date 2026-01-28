@@ -58,7 +58,19 @@ Weida + Leandro
 
 # W4
 
+### Activity 0
+
+Weida & Leandro
+
 ### Activity 1
+
+
+
+### Activity 2
+
+### Activity 3
+
+
 
 
 
