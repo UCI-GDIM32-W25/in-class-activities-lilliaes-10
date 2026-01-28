@@ -54,6 +54,14 @@ Weida + Leandro
 
 ![IMG_7726](https://github.com/user-attachments/assets/88ea83aa-2e47-44d1-8526-c4d8b5b63e21)
 
+#
+
+# W4
+
+### Activity 1
+
+
+
 
 
 
