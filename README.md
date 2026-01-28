@@ -64,11 +64,16 @@ Weida & Leandro
 
 ### Activity 1
 
-
+The locator objects are present logically, but not visibally in the game. This is because they are editor helpers and not a visual component.
 
 ### Activity 2
 
+![Mg4 breakdown](https://github.com/user-attachments/assets/71d99b30-4834-4662-b3c9-cf8ac3677947)
+
 ### Activity 3
+
+[MG4 Initial Commit](https://github.com/lilliaes-10/HW4/commit/e7af8ff7c60aaf4345560721bb39c7af1caa8283)
+In class, I set up the background, vertical camera, ground, and player. I learned to download and upload and splice sprite sheets.
 
 
 
