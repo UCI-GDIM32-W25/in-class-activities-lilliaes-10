@@ -42,6 +42,54 @@ To ace the class, my tablemates discussed that we should attend LA hours and act
 
 In today's class I worked on MG2 by adding the background, ground, player, and coin sprites. I also set up the coin prefab and coded the player to jump on the space key and also not double jump.
 
+#
+
+# W3
+
+### Activity 1 + 2
+
+Weida + Leandro
+
+### Activity 3
+
+![IMG_7726](https://github.com/user-attachments/assets/88ea83aa-2e47-44d1-8526-c4d8b5b63e21)
+
+#
+
+# W4
+
+### Activity 0
+
+Weida & Leandro
+
+### Activity 1
+
+The locator objects are present logically, but not visibally in the game. This is because they are editor helpers and not a visual component.
+
+### Activity 2
+
+![Mg4 breakdown](https://github.com/user-attachments/assets/71d99b30-4834-4662-b3c9-cf8ac3677947)
+
+### Activity 3
+
+[MG4 Initial Commit](https://github.com/lilliaes-10/HW4/commit/e7af8ff7c60aaf4345560721bb39c7af1caa8283)
+In class, I set up the background, vertical camera, ground, and player. I learned to download and upload and splice sprite sheets.
+
+#
+
+# W5
+
+### Activity 1
+
+
+
+
+
+
+
+
+
+
 
 
 
