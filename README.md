@@ -90,7 +90,9 @@ The model in the W5demo2 are the scriptable objects EnemyStats and ItemW5Demo2, 
 ### Activity 3
 
 Scenario 1: Model View Controller with C# events
+
 Scenario 2: Scriptable objects for weapons and abilities, inheritance for weapon abstract class, model view controller with C# events for the gunshots coming in contact with enemy. Finite state machine for animations and movements.
+
 Scenario 3: Scriptable objects for the plants and rocks. Model view controller for the player to receive input and react to the movement input. Model for the data of the game.
 
 ### Activity 4
