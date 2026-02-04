@@ -1,4 +1,3 @@
-/*
 using UnityEngine;
 
 public class InheritanceTest : MonoBehaviour
@@ -42,4 +41,3 @@ public class Enemy
 {
 	
 }
-*/
