@@ -85,6 +85,19 @@ I think using abstract Item class with the IBreakable interface makes sense for 
 
 ### Activity 2
 
+The model in the W5demo2 are the scriptable objects EnemyStats and ItemW5Demo2, which are used in the enemy and player script to show the internal stat of the enemy and also the items in the player's inventory. The controller in the demo is the Player script, which detects input and moves the player based on the input received. The view is the dialogue UI and inventory UI.
+
+### Activity 3
+
+Scenario 1: Model View Controller with C# events
+Scenario 2: Scriptable objects for weapons and abilities, inheritance for weapon abstract class, model view controller with C# events for the gunshots coming in contact with enemy. Finite state machine for animations and movements.
+Scenario 3: Scriptable objects for the plants and rocks. Model view controller for the player to receive input and react to the movement input. Model for the data of the game.
+
+### Activity 4
+
+Attendance: Leandro, Lillian
+
+[Final Project Proposal Google Doc](https://docs.google.com/document/d/18PFOtrtQyiVacLJt901An-S0ZsYfAuYp0LhchDIRU3Y/edit?usp=sharing)
 
 
 
