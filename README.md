@@ -99,7 +99,7 @@ Scenario 3: Scriptable objects for the plants and rocks. Model view controller f
 
 Attendance: Leandro, Lillian
 
-[Final Project Proposal Google Doc]([https://docs.google.com/document/d/18PFOtrtQyiVacLJt901An-S0ZsYfAuYp0LhchDIRU3Y/edit?usp=sharing](https://docs.google.com/document/d/1xISKeTxHcyg1ukxzz-i_5d-Cz9bvp_8rIGGyn6IEIXQ/edit?usp=sharing))
+[Final Project Proposal Google Doc](https://docs.google.com/document/d/1xISKeTxHcyg1ukxzz-i_5d-Cz9bvp_8rIGGyn6IEIXQ/edit?usp=sharing)
 
 
 
