@@ -81,7 +81,9 @@ In class, I set up the background, vertical camera, ground, and player. I learne
 
 ### Activity 1
 
-I think using abstract Item class with the IBreakable interface makes sense for a game with different kinds of usable items. The Item abstract class works as a shared base that makes all items implement the Use() method, keeping code organized for handling different items in an inventory. The IBreakable interface is helpful for separating durability behavior from item behavior. If I were building a project, I would keep the design the same but maybe move durability logic into a shared base class to avoid repeating similar code in each breakable item.
+I think using abstract Item class with the IBreakable interface makes sense for a game with different kinds of usable items. The Item abstract class works as a shared base that makes all items implement the Use() method, keeping code organized for handling different items in an inventory. The IBreakable interface is helpful for separating durability behavior from item behavior. If I were building a project, I would keep the design the same but maybe move durability logic into a shared class to avoid repeating similar code in each breakable item.
+
+### Activity 2
 
 
 
