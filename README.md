@@ -107,7 +107,9 @@ Attendance: Leandro, Lillian
 
 ### Activity 1
 
-Common student project performance issues include allocating strings frequently, too many debug messages, and putting things in Update() that doesn't need to run every frame. Using Gizmos will be useful for my final project as that can be a good method to help debug positioning, velocities, and directions of the player and game objects. It will be significant in understanding how certain objects, the environment, and NPC's interact with the player, especially when attempting to solve issues in the code. Gizmos helps us to visualize with lines coming out of the objects to clarify details that may be easier to debug in through seeing it in the inspector rather than simply through analyzing lines of code.
+Common student project performance issues include allocating strings frequently, too many debug messages, and putting things in Update() that doesn't need to run every frame.
+
+Using Gizmos will be useful for my final project as that can be a good method to help debug positioning, velocities, and directions of the player and game objects. It will be significant in understanding how certain objects, the environment, and NPC's interact with the player, especially when attempting to solve issues in the code. Gizmos helps us to visualize with lines coming out of the objects to clarify details that may be easier to debug in through seeing it in the inspector rather than simply through analyzing lines of code.
 
 ### Activity 2
 
