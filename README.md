@@ -119,6 +119,29 @@ Group Attendance: Lillian, Leandro
 
 #
 
+# W7
+
+### Activity 1
+
+Raycasts have an origin point that go in a certain direction for a specific distance. They check what they hit first. In this game, the chicken has a spherical raycast so that it detects if there is anything in front of it, not just anything that may hit a single ray coming out of it. The direction is a vector that stops at the first collider it hits. NPCs should have a finite state machine that ensures it can only be in one state at a time, can't be running and idle or attacking and jumping.
+
+### Activity 2
+
+Attendance: Lillian, Weida, Leandro
+
+### Activity 3
+
+![IMG_8207](https://github.com/user-attachments/assets/d676ca87-987d-4ab1-bd04-c4e8c2afd6b6)
+
+### Activity 4
+
+[GDIM 32 Group Final Project Tasks Document](https://docs.google.com/document/d/1hls1AYtu9bNMllUslOCO5rB60zfJzVcmPYjtyw58uko/edit?usp=sharing)
+
+### Activity 5
+
+
+
+
 
 
 
