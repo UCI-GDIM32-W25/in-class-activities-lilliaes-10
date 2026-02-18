@@ -1,5 +1,5 @@
 using UnityEngine;
-
+/*
 public class InheritanceTest : MonoBehaviour
 {
 	// don't change anything in Main()!
@@ -41,3 +41,4 @@ public class Enemy
 {
 	
 }
+*/
