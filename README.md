@@ -139,6 +139,9 @@ Attendance: Lillian, Weida, Leandro
 
 ### Activity 5
 
+[Final Repository Commit Update](https://github.com/Weida758/GDIM32-Final/commit/99ffa49d6085c2aa6092867b9d46f25b0e2e5bc4)
+
+In today's class, I worked on searching online for free character and resource assets for my group's game project. I was able to find an adventurer characters pack and basic collectible items/resources set to download and upload to our project.
 
 
 
