@@ -143,6 +143,22 @@ Attendance: Lillian, Weida, Leandro
 
 In today's class, I worked on searching online for free character and resource assets for my group's game project. I was able to find an adventurer characters pack and basic collectible items/resources set to download and upload to our project.
 
+#
+
+# W8
+
+### Activity 1
+
+Shaders can be used to enhance visuals of object materials and scenic items in the Unity game. Animations from other sources might not work with other 3D models, as they have to be rigged to the specific model types. Additionally, you can add these effects in the scene through post provessing paclaging in the Unity registry. A new layer needs to be made to add the new volume component to it.
+
+### Activity 2
+
+Attendance: Lillian, Weida, Leandro
+
+### Activity 3
+
+
+
 
 
 
