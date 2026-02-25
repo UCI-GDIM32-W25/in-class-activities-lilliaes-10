@@ -157,6 +157,14 @@ Attendance: Lillian, Weida, Leandro
 
 ### Activity 3
 
+Today I am going to work on finding more UI assets for the stamina, health bar, and small icons for stats screen (heart, sword, shield).
+
+### Activity 4
+
+[Final Repository Commit Update](https://github.com/Weida758/GDIM32-Final/commit/8613f650a8243c985a638f41aa29d9e3cacfea57)
+
+In today's class I ended up finding audio assets for the UI, the walking sounds, hitting sounds, and background music for normal state and when fighting enemy state. I also found UI elements for the player stats including heart, sword, and shield elements.
+
 
 
 
