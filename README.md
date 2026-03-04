@@ -165,6 +165,44 @@ Today I am going to work on finding more UI assets for the stamina, health bar, 
 
 In today's class I ended up finding audio assets for the UI, the walking sounds, hitting sounds, and background music for normal state and when fighting enemy state. I also found UI elements for the player stats including heart, sword, and shield elements.
 
+#
+
+#W9
+
+### Activity 1
+
+Dialogue branches are helpful to organize how the player interacts and responds with the NPCs. The character needs to have a state machine to keep it within one state for scaling purposes.
+
+### Activity 2
+
+Attendance: Lillian, Weida, Leandro
+
+### Activity 3
+
+- at start of game put instructions/goal for player
+- use more commonly used controls for the inventory
+- add NPC dialogue
+- add quests and enemy NPCs and collectible items
+
+### Activity 4
+
+We are exactly where we planned to be as we have finished basic Player movement, inventory setup, collecting items, and designed the terrain in the scene. This tells us that we are able to finish the objectives for our project, including adding the enemy NPCs and more collectible items. Most importantly, we aim to add the dialogue branches and clearer goals for the player to know what to do. Additionally, more finalized UI elements will be implemented to guide the player through their inventory and starting the game.
+
+### Activity 5
+
+[Final Repository Commit Update](https://github.com/Weida758/GDIM32-Final/commit/e6e222982d8d4fa52d4313f3c77d0fc9c9ae078c)
+
+In today's class I added the watermelon item to the game. It will allow the player to heal for 1 health every second, for up to 10 seconds before losing affect.
+
+
+
+
+
+
+
+
+
+
 
 
 
