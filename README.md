@@ -194,6 +194,33 @@ We are exactly where we planned to be as we have finished basic Player movement,
 
 In today's class I added the watermelon item to the game. It will allow the player to heal for 1 health every second, for up to 10 seconds before losing affect.
 
+#
+
+# W10
+
+### Activity 1
+
+Attendance: Lillian, Weida, Leandro
+
+### Activity 2
+
+- add NPC dialogue
+- clearer quest instructions
+- directions to where slimes are
+
+### Activity 3
+
+We are pretty far along in our project and pretty much finished. We only need to add the dialogue branches and tweak minor aspects of player interaction and fighting with enemies.
+
+### Activity 4
+
+[Final Repository Commit Update](https://github.com/Weida758/GDIM32-Final/commit/6d6cd35f16f43201c80fb0a02952f987d12afd27)
+
+In today's class I worked on the dialogue branching for the merchant. I wrote it out and added the lines for the back and forth dialogue between merchant npc and player in the Inspector on Unity.
+
+
+
+
 
 
 
